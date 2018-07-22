@@ -13,7 +13,7 @@
 
 #include "GuiSampleDoc.h"
 #include "ConfigView.h"
-
+////////////////////
 // Stores GenApi enumeration items into MFC ComboBox
 void FillEnumerationListCtrl( GenApi::IEnumeration* pEnum, CComboBox* pCtrl )
 {
